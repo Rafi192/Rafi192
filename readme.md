@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafi192" alt="rafi192" /></a> </p>
 
-- 🔭 I’m currently working on [Building Intelligent Application leveraging AI and LLMs](https://github.com/Rafi192/Intelligent_Applications)
+- 🔭 I’m currently working on [Building Intelligent Application leveraging Full-Stack and AI & LLMs](https://github.com/Rafi192/Intelligent_Applications)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
