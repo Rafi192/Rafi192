@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafi Hasan</h1>
-<h3 align="center">A passionate and skilled Software Engineer with strong focus on AI and Machine Learning and Full-Stack web development.</h3>
+<h3 align="center">A passionate and skilled Software Engineer with strong focus on AI and Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafi192&label=Profile%20views&color=0e75b6&style=flat" alt="rafi192" /> </p>
 
