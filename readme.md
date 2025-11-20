@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafi192" alt="rafi192" /></a> </p>
 
-<p align="center">🔭 I’m currently working on <a href="https://github.com/Rafi192/Intelligent_Applications">AI-powered full-stack applications</a></p>
+<p align="center">🔭 I’m currently working on <a href="[https://github.com/Rafi192/Intelligent_Applications](https://github.com/Rafi192/Intelligent_Document_parsing_chatbot)">Intelligent RAG based AI system</a></p>
 
 
 
