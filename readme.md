@@ -5,7 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafi192" alt="rafi192" /></a> </p>
 
-<div style="text-align: center;">🔭 I’m currently working on <a href="https://github.com/Rafi192/Intelligent_Applications">AI-powered full-stack applications</a></div>
+<p align="center">🔭 I’m currently working on <a href="https://github.com/Rafi192/Intelligent_Applications">AI-powered full-stack applications</a></p>
+
 
 
 <h3 align="center">Connect with me:</h3>
