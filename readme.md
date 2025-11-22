@@ -3,7 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rafi192&label=Profile%20views&color=0e75b6&style=flat" alt="rafi192" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafi192" alt="rafi192" /></a> </p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rafi192&theme=algolia&margin-w=10&margin-h=10" />
+</div>
+
 
 <p align="center">🔭 I’m currently working on <a href="https://github.com/Rafi192/Intelligent_Document_parsing_chatbot">Intelligent RAG based AI system</a></p>
 
